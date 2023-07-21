@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100;1,200;1,700&display=swap');
+.akash{
+    background-image: url('./assests/car.jpg');
+    background-repeat: no-repeat;
+}
+.spaceingg{
+    height: 60px;
+}
+.section-size{
+    height: 100vh;
+}
+.custom-font{
+    font-family: 'Poppins', sans-serif;
+}
+.vicky{
+    background-color: red;
+}
+.fix{
+    position: fixed;
+}
+.section-size1{
+    height: 60vh;
+}
+.eswaran{
+    background-color: blue;
+}
+.section-size2{
+    height: 200vh;
+}
